@@ -1,4 +1,4 @@
-analise_estatisticas_nba
+Análise Estatísticas NBA
 ==============================
 
 Analise de correlacao entre estatisticas em partidas de temporada regular da NBA
