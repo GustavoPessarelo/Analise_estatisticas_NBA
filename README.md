@@ -1,7 +1,7 @@
 Análises Estatísticas NBA
 ==============================
 
-Analise de correlacao entre estatisticas em partidas de temporada regular da NBA
+Análise de correlação entre estatísticas em partidas de temporada regular da NBA
 
 Project Organization
 ------------
